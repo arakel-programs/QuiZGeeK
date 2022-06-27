@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Level 1
+    <string name="lvl1text0">Zero</string>
+    <string name="lvl1text1">One</string>
+    <string name="lvl1text2">Two</string>
+    <string name="lvl1text3">Three</string>
+    <string name="lvl1text4">Four</string>
+    <string name="lvl1text5">Five</string>
+    <string name="lvl1text6">Six</string>
+    <string name="lvl1text7">Seven</string>
+    <string name="lvl1text8">Eight</string>
+    <string name="lvl1text9">Nine</string>
+    //Level 2
+    <string name="lvl2text1" translatable="false">I</string>
+    <string name="lvl2text2" translatable="false">II</string>
+    <string name="lvl2text3" translatable="false">III</string>
+    <string name="lvl2text4" translatable="false">IV</string>
+    <string name="lvl2text5" translatable="false">V</string>
+    <string name="lvl2text6" translatable="false">VI</string>
+    <string name="lvl2text7" translatable="false">VII</string>
+    <string name="lvl2text8" translatable="false">VIII</string>
+    <string name="lvl2text9" translatable="false">IX</string>
+    <string name="lvl2text10" translatable="false">X</string>
+    //Level 3
+    <string name="lvl3text1">Rabbit</string>
+    <string name="lvl3text2">Kuala</string>
+    <string name="lvl3text3">Panda\npanda</string>
+    <string name="lvl3text4">Giraffe</string>
+    <string name="lvl3text5">Cat</string>
+    <string name="lvl3text6">Dog</string>
+    <string name="lvl3text7">Snake</string>
+    <string name="lvl3text8">Bear</string>
+    <string name="lvl3text9">Anteater</string>
+    <string name="lvl3text10">Anteater</string>
+    //Level 4
+    <string name="lvl4text1">Bread</string>
+    <string name="lvl4text2">Ball</string>
+    <string name="lvl4text3">Egg</string>
+    <string name="lvl4text4">Headphones</string>
+    <string name="lvl4text5">Meat</string>
+    <string name="lvl4text6">Battery</string>
+    <string name="lvl4text7">Pear</string>
+    <string name="lvl4text8">Plate</string>
+    <string name="lvl4text9">Burger</string>
+    <string name="lvl4text10">Key</string>
+    //Level 5
+    <string name="lvl5text1">Spiderman</string>
+    <string name="lvl5text2">Superman</string>
+    <string name="lvl5text3">Ironman</string>
+    <string name="lvl5text4">Batman</string>
+    <string name="lvl5text5">Thor</string>
+    <string name="lvl5text6">Spawn</string>
+    <string name="lvl5text7">Alla\nWitch</string>
+    <string name="lvl5text8">Deadstock</string>
+    <string name="lvl5text9">Wolverine</string>
+    <string name="lvl5text10">Shazam</string>
+    //Level 6
+    <string name="lvl6text1">Batman</string>
+    <string name="lvl6text2">Superman</string>
+    <string name="lvl6text3">X-Men</string>
+    <string name="lvl6text4">Man\nSpider</string>
+    <string name="lvl6text5">Daredevil</string>
+    <string name="lvl6text6">Iron\nMan</string>
+    <string name="lvl6text7">Green\nLantern</string>
+    <string name="lvl6text8">Dark One\nKnight:\nRebirth</string>
+    <string name="lvl6text9">Avengers:\nAge of Ultron</string>
+    <string name="lvl6text10" translatable="false">Justice\nLeague</string>
+    //Level 7
+    <string name="lvl7text1" translatable="false">Atari\n2600</string>
+    <string name="lvl7text2" translatable="false">NES</string>
+    <string name="lvl7text3" translatable="false">Sega\nGenesis</string>
+    <string name="lvl7text4" translatable="false">NEO\nGEO</string>
+    <string name="lvl7text5" translatable="false">Nintendo 64</string>
+    <string name="lvl7text6" translatable="false">PSone</string>
+    <string name="lvl7text7" translatable="false">Xbox\nOriginal</string>
+    <string name="lvl7text8" translatable="false">PSP</string>
+    <string name="lvl7text9" translatable="false">PS4</string>
+    <string name="lvl7text10" translatable="false">Nintendo\nSwitch</string>
+    //Level 8
+    <string name="lvl8text1">Love is</string>
+    <string name="lvl8text2">Starburst</string>
+    <string name="lvl8text3">Turbo</string>
+    <string name="lvl8text4">Mamba</string>
+    <string name="lvl8text5">Double\nBubble</string>
+    <string name="lvl8text6">Twist</string>
+    <string name="lvl8text7">Juicy\nFruit</string>
+    <string name="lvl8text8">Colbri</string>
+    <string name="lvl8text9">Doublemint</string>
+    <string name="lvl8text10">Twist</string>
+    //Level 9
+    <string name="lvl9text1">Adam\nWest</string>
+    <string name="lvl9text2">Tobey\nMaguire</string>
+    <string name="lvl9text3">Michael\nKeaton</string>
+    <string name="lvl9text4">George\nReeves</string>
+    <string name="lvl9text5">Christian\nBale</string>
+    <string name="lvl9text6">Nicholas\nCage</string>
+    <string name="lvl9text7">Ben\nAffleck</string>
+    <string name="lvl9text8">Mark\nHamill</string>
+    <string name="lvl9text9">Robert\nPattinson</string>
+    <string name="lvl9text10">Leonardo\nDiCaprio</string>
+    //Level 10
+    <string name="lvl10text1">BMW</string>
+    <string name="lvl10text2">Toyota</string>
+    <string name="lvl10text3">Mercedes</string>
+    <string name="lvl10text4">Ford</string>
+    <string name="lvl10text5">Porsche</string>
+    <string name="lvl10text6">Chevrolet</string>
+    <string name="lvl10text7">Volkswagen</string>
+    <string name="lvl10text8">Ferrari</string>
+    <string name="lvl10text9">Opel</string>
+    <string name="lvl10text10">Cadillac</string>
+    //Level 11
+    <string name="lvl11text1">Dolphin</string>
+    <string name="lvl11text2">Crocodile</string>
+    <string name="lvl11text3">Orca</string>
+    <string name="lvl11text4">Snake</string>
+    <string name="lvl11text5">Bear</string>
+    <string name="lvl11text6">Shark</string>
+    <string name="lvl11text7">Bat\nMouse</string>
+    <string name="lvl11text8">Eagle</string>
+    <string name="lvl11text9">Wolf</string>
+    <string name="lvl11text10">Lizard</string>
+    <string name="lvl11text11">Navy\nSeal</string>
+    <string name="lvl11text12">Fly</string>
+    <string name="lvl11text13">Behemoth</string>
+    <string name="lvl11text14">Sparrow</string>
+    <string name="lvl11text15">Puma</string>
+    <string name="lvl11text16">Penguin</string>
+    <string name="lvl11text17">Raccoon</string>
+    <string name="lvl11text18">Turtle</string>
+    <string name="lvl11text19">Lion</string>
+    <string name="lvl11text20">Parrot</string>
+    //Level 12
+    <string name="lvl12text1">Subway\nSurfers</string>
+    <string name="lvl12text2">Tomb\nRaider</string>
+    <string name="lvl12text3">Candy\nCrush</string>
+    <string name="lvl12text4">Minecraft</string>
+    <string name="lvl12text5">Angry\nBirds</string>
+    <string name="lvl12text6">Tekken 5</string>
+    <string name="lvl12text7">Clash of\nClans</string>
+    <string name="lvl12text8">Harry\nPotter</string>
+    <string name="lvl12text9">Fruit\nNinja</string>
+    <string name="lvl12text10">PES\n2021</string>
+    <string name="lvl12text11">Talking\nTom</string>
+    <string name="lvl12text12">Fortnite</string>
+    <string name="lvl12text13">Shadow\nFight</string>
+    <string name="lvl12text14">Counter\nStrike</string>
+    <string name="lvl12text15">Cute\nthe Rope</string>
+    <string name="lvl12text16">GTA IV</string>
+    <string name="lvl12text17">Vector</string>
+    <string name="lvl12text18">Medal of\nHonor</string>
+    <string name="lvl12text19">Temple\nRun</string>
+    <string name="lvl12text20">CyberPunk\n2077</string>
+    //Level 13
+    <string name="lvl13text1">Horizon\nForbidden\nWest</string>
+    <string name="lvl13text2">CyberPunk\n2077</string>
+    <string name="lvl13text3">Devil\nMay\nCry V</string>
+    <string name="lvl13text4">The Sims 4</string>
+    <string name="lvl13text5">Halo\nInferno</string>
+    <string name="lvl13text6">Batman\nArkham\nKnight</string>
+    <string name="lvl13text7">Uncharted 4\nA Thief’s\n End</string>
+    <string name="lvl13text8">Civilization IV</string>
+    <string name="lvl13text9">Gran\nTurismo 7</string>
+    <string name="lvl13text10">Left4Dead 2</string>
+    <string name="lvl13text11">God of\nWar 4</string>
+    <string name="lvl13text12">PES\n2021</string>
+    <string name="lvl13text13">Spider\nMan</string>
+    <string name="lvl13text14">Minecraft</string>
+    <string name="lvl13text15">Crash\nBandicoot</string>
+    <string name="lvl13text16">Counter\nStrike\nSource</string>
+    <string name="lvl13text17">UFC 4</string>
+    <string name="lvl13text18">Harry\nPotter 3</string>
+    <string name="lvl13text19">Avengers</string>
+    <string name="lvl13text20">Medal of\nHonor</string>
+    //Level 14
+    <string name="lvl14text1">Fortresses\nApocalypse\nManga</string>
+    <string name="lvl14text2">Code Geass</string>
+    <string name="lvl14text3">Ability</string>
+    <string name="lvl14text4">Gate\nStein</string>
+    <string name="lvl14text5">Demihuman</string>
+    <string name="lvl14text6">Attack\ntitans</string>
+    <string name="lvl14text7">Bandidos</string>
+    <string name="lvl14text8">Violet\nEvergarden</string>
+    <string name="lvl14text9">Patriotism\nMoriarty</string>
+    <string name="lvl14text10">Gintama</string>
+    <string name="lvl14text11">Petals\nReincarnation</string>
+    <string name="lvl14text12">Evangelion</string>
+    <string name="lvl14text13">Mobile Warrior\nCrossbon Gundam</string>
+    <string name="lvl14text14">Volleyball</string>
+    <string name="lvl14text15">Two-faced\nbrother</string>
+    <string name="lvl14text16">Psycho-Pass</string>
+    <string name="lvl14text17">Detective\nConan</string>
+    <string name="lvl14text18">Monster Stories\n</string>
+    <string name="lvl14text19">Dungeon\ngoodies</string>
+    <string name="lvl14text20">Masters\nof the sword\nonline</string>
+    //Level 15
+    <string name="lvl15text1">Robert\nSean\nLeonard</string>
+    <string name="lvl15text2">Michelle\nRuff</string>
+    <string name="lvl15text3">Hugh\nLaurie</string>
+    <string name="lvl15text4">Colin\nFord</string>
+    <string name="lvl15text5">Lisa\nEdelstein</string>
+    <string name="lvl15text6">Michael\nDangerfield</string>
+    <string name="lvl15text7">Jesse\nSpencer</string>
+    <string name="lvl15text8">Brian\nDrummond</string>
+    <string name="lvl15text9">Jennifer\nMorrison</string>
+    <string name="lvl15text10">Keri\nPratt</string>
+    <string name="lvl15text11">Omar\nEpps</string>
+    <string name="lvl15text12">Elaina\nHuffman</string>
+    <string name="lvl15text13">Peter\nJacobson</string>
+    <string name="lvl15text14">Corey\nSevier</string>
+    <string name="lvl15text15">Olivia\nWylde</string>
+    <string name="lvl15text16">Loughlin\nMunro</string>
+    <string name="lvl15text17">Kal\nPenn</string>
+    <string name="lvl15text18">Denise\nQuinones</string>
+    <string name="lvl15text19">Ann\nDudek</string>
+    <string name="lvl15text20">Emmanuelle\nVaugier</string>
+    //Level 16
+    <string name="lvl16text1">Argentina</string>
+    <string name="lvl16text2">China</string>
+    <string name="lvl16text3">Spain</string>
+    <string name="lvl16text4">Iran</string>
+    <string name="lvl16text5">Italy</string>
+    <string name="lvl16text6">Hungary</string>
+    <string name="lvl16text7">USA</string>
+    <string name="lvl16text8">Canada</string>
+    <string name="lvl16text9">France</string>
+    <string name="lvl16text10">Morocco</string>
+    <string name="lvl16text11">Germany</string>
+    <string name="lvl16text12">Egypt</string>
+    <string name="lvl16text13">South Africa</string>
+    <string name="lvl16text14">Portugal</string>
+    <string name="lvl16text15">Brazil</string>
+    <string name="lvl16text16">Belgium</string>
+    <string name="lvl16text17">Russia</string>
+    <string name="lvl16text18">Netherlands</string>
+    <string name="lvl16text19">Qatar</string>
+    <string name="lvl16text20">Australia</string>
+    //Level 17
+    <string name="lvl17text1">Adidas</string>
+    <string name="lvl17text2">Abibas</string>
+    <string name="lvl17text3">Nike</string>
+    <string name="lvl17text4">Nibe</string>
+    <string name="lvl17text5">Puma</string>
+    <string name="lvl17text6">Pumba</string>
+    <string name="lvl17text7">Reebok</string>
+    <string name="lvl17text8">Reebek</string>
+    <string name="lvl17text9">Columbia</string>
+    <string name="lvl17text10">Cialumbia</string>
+    //Level 18
+    <string name="lvl18text1">Belgium</string>
+    <string name="lvl18text2">Argentina</string>
+    <string name="lvl18text3">UK</string>
+    <string name="lvl18text4">USA</string>
+    <string name="lvl18text5">Italy</string>
+    <string name="lvl18text6">Brazil</string>
+    <string name="lvl18text7">Germany</string>
+    <string name="lvl18text8">China</string>
+    <string name="lvl18text9">Hungary</string>
+    <string name="lvl18text10">Canada</string>
+    <string name="lvl18text11">Portugal</string>
+    <string name="lvl18text12">Australia</string>
+    <string name="lvl18text13">Spain</string>
+    <string name="lvl18text14">Morocco</string>
+    <string name="lvl18text15">France</string>
+    <string name="lvl18text16">Egypt</string>
+    <string name="lvl18text17">Russia</string>
+    <string name="lvl18text18">Iran</string>
+    <string name="lvl18text19">Netherlands</string>
+    <string name="lvl18text20">Qatar</string>
+    //Level 19
+    <string name="lvl19text1">Mike\nTyson</string>
+    <string name="lvl19text2">Teofilo\nStevenson</string>
+    <string name="lvl19text3">Muhammad\nAli</string>
+    <string name="lvl19text4">Felix\nSavon</string>
+    <string name="lvl19text5">Vladimir\nKlitschko</string>
+    <string name="lvl19text6">Mario\nKindelan</string>
+    <string name="lvl19text7">Larry\nHolmes</string>
+    <string name="lvl19text8">Ali\nAhmedov</string>
+    <string name="lvl19text9">Evander\nHolyfield</string>
+    <string name="lvl19text10">David\nTua</string>
+    <string name="lvl19text11">Floyd\nPatterson</string>
+    <string name="lvl19text12">Michael\nWatson</string>
+    <string name="lvl19text13">Deontay\nWilder</string>
+    <string name="lvl19text14">Mickey\nWard</string>
+    <string name="lvl19text15">Joe\nFrazier</string>
+    <string name="lvl19text16">Ernie\nShavers</string>
+    <string name="lvl19text17">Alexander\nUsyk</string>
+    <string name="lvl19text18">Andrzej\nGolota</string>
+    <string name="lvl19text19">Tyson\nFury</string>
+    <string name="lvl19text20">Ernie\nShavers</string>
+    //Level 20
+    <string name="lvl20text1">Steve\nBusami</string>
+    <string name="lvl20text2">Natalie\nPortman</string>
+    <string name="lvl20text3">Amanda\nSeifred</string>
+    <string name="lvl20text4">Nicholas\nCage</string>
+    <string name="lvl20text5">Ewan McGregor</string>
+    <string name="lvl20text6">Miley\nCyrus</string>
+    <string name="lvl20text7">Channing\nTatum</string>
+    <string name="lvl20text8">Olivia\nWylde</string>
+    <string name="lvl20text9">Sersha\nRonan</string>
+    <string name="lvl20text10">Elton\nJohn</string>
+    <string name="lvl20text11">Jake\nYyllenhal</string>
+    <string name="lvl20text12">Charlie\nSheen</string>
+    <string name="lvl20text13">Joaquin\nPhoenix</string>
+    <string name="lvl20text14">Muhammad\nAli</string>
+    <string name="lvl20text15">Charlize\nTheron</string>
+    <string name="lvl20text16">Ani\nLorak</string>
+    <string name="lvl20text17">Demi\nMoore</string>
+    <string name="lvl20text18">Fergie</string>
+    <string name="lvl20text19">Kate\nBlanchitt</string>
+    <string name="lvl20text20">Masha\nRasputina</string>
+    //Level 21
+    <string name="lvl21text1">Denzel\nWashington</string>
+    <string name="lvl21text2">Johnny\nDepp</string>
+    <string name="lvl21text3">Meryl\nStreep</string>
+    <string name="lvl21text4">Tom\nCruz</string>
+    <string name="lvl21text5">Tom\nHanks</string>
+    <string name="lvl21text6">Brad\nPitt</string>
+    <string name="lvl21text7">Al\nPacino</string>
+    <string name="lvl21text8">Sigourney\nWeaver</string>
+    <string name="lvl21text9">Leonardo\nDiCaprio</string>
+    <string name="lvl21text10">Amy\nAdams</string>
+    <string name="lvl21text11">Joaquin\nPhoenix</string>
+    <string name="lvl21text12">Bill\nMurray</string>
+    <string name="lvl21text13">Russell\nCrowe</string>
+    <string name="lvl21text14">Robert\nDowney Jr.</string>
+    <string name="lvl21text15">Hilary\nSwank</string>
+    <string name="lvl21text16">Samuel L.\nJackson</string>
+    <string name="lvl21text17">Jodi\nFoster</string>
+    <string name="lvl21text18">Bradley\nCooper</string>
+    <string name="lvl21text19">Jack\nNicholson</string>
+    <string name="lvl21text20">Keanu\nReeves</string>
+    //Level 22
+    <string name="lvl22text1">Taipan</string>
+    <string name="lvl22text2">Tarantula</string>
+    <string name="lvl22text3">Australian\ncube jellyfish</string>
+    <string name="lvl22text4">Battleship</string>
+    <string name="lvl22text5">Giant\nhornet</string>
+    <string name="lvl22text6">Ladle</string>
+    <string name="lvl22text7">Bicolor\nbonito</string>
+    <string name="lvl22text8">Wombat</string>
+    <string name="lvl22text9">Redback\nSpider</string>
+    <string name="lvl22text10">Fenech</string>
+    <string name="lvl22text11">Dread\nLeaf Climber</string>
+    <string name="lvl22text12">Flying\nfox</string>
+    <string name="lvl22text13">Rockfish</string>
+    <string name="lvl22text14">Letter\npanda</string>
+    <string name="lvl22text15">Yellow\nscorpion</string>
+    <string name="lvl22text16">Capybara</string>
+    <string name="lvl22text17">Blue-ringed\noctopus</string>
+    <string name="lvl22text18">Anaconda</string>
+    <string name="lvl22text19">Pacific\nlionfish</string>
+    <string name="lvl22text20">Meerkat</string>
+    //Level 23
+    <string name="lvl23text1">Theodore\nRoosevelt</string>
+    <string name="lvl23text2">William\nTaft</string>
+    <string name="lvl23text3">Woodrow\nWilson</string>
+    <string name="lvl23text4">Warren\nGarding</string>
+    <string name="lvl23text5">Calvin\nCoolidge</string>
+    <string name="lvl23text6">Herbert\nHoover</string>
+    <string name="lvl23text7">Franklin\nRoosevelt</string>
+    <string name="lvl23text8">Harry\nTruman</string>
+    <string name="lvl23text9">Dwight\nEisenhower</string>
+    <string name="lvl23text10">John\nKennedy</string>
+    <string name="lvl23text11">Lyndon\nJohnson</string>
+    <string name="lvl23text12">Richard\nNixon</string>
+    <string name="lvl23text13">Gerald\nFord</string>
+    <string name="lvl23text14">Jimmy\nCarter</string>
+    <string name="lvl23text15">Ronald\nReagan</string>
+    <string name="lvl23text16">George\nSt. Bush</string>
+    <string name="lvl23text17">Bill\nClinton</string>
+    <string name="lvl23text18">George\nBush Jr.</string>
+    <string name="lvl23text19">Barack\nObama</string>
+    <string name="lvl23text20">Donald\nTrump</string>
+    <string name="lvl23text21">Joe\nBiden</string>
+    //Level 24
+    <string name="lvl24text1">Bart</string>
+    <string name="lvl24text2">Vaylon</string>
+    <string name="lvl24text3">Lisa</string>
+    <string name="lvl24text4">Nelson</string>
+    <string name="lvl24text5">Marge</string>
+    <string name="lvl24text6">D. Nikk</string>
+    <string name="lvl24text7">Homer</string>
+    <string name="lvl24text8">Ned</string>
+    <string name="lvl24text9">Maggie</string>
+    <string name="lvl24text10">Willy</string>
+    <string name="lvl24text11">Selma</string>
+    <string name="lvl24text12">Milhouse</string>
+    <string name="lvl24text13">Patty</string>
+    <string name="lvl24text14">Jeff</string>
+    <string name="lvl24text15">Abraham</string>
+    <string name="lvl24text16">Charles</string>
+    <string name="lvl24text17">Jr. Helper\nSanta</string>
+    <string name="lvl24text18">Bob</string>
+    <string name="lvl24text19">Snowball</string>
+    <string name="lvl24text20">Clancy</string>
+    //Level 25
+    <string name="lvl25text1">Kirk\nElin</string>
+    <string name="lvl25text2">George\nReeves</string>
+    <string name="lvl25text3">Christopher\nRive</string>
+    <string name="lvl25text4">John\nNewton</string>
+    <string name="lvl25text5">Gerard\nChristopher</string>
+    <string name="lvl25text6">Dean\nKane</string>
+    <string name="lvl25text7">Tom\nWelling</string>
+    <string name="lvl25text8">Brandon\nRaut</string>
+    <string name="lvl25text9">Henry\nCavill</string>
+    <string name="lvl25text10">Tyler\nHoechlin</string>
+    //Level 26
+    <string name="lvl26text1">Archangel</string>
+    <string name="lvl26text2">Namor</string>
+    <string name="lvl26text3">Beast</string>
+    <string name="lvl26text4">Venom</string>
+    <string name="lvl26text5">Polaris</string>
+    <string name="lvl26text6">Ghost Rider</string>
+    <string name="lvl26text7">Volcano</string>
+    <string name="lvl26text8">Yondu</string>
+    <string name="lvl26text9">Gambit</string>
+    <string name="lvl26text10">Ant-Man\n</string>
+    <string name="lvl26text11">Red\nLotus</string>
+    <string name="lvl26text12">Black\nwidow</string>
+    <string name="lvl26text13">Karma</string>
+    <string name="lvl26text14">Spider Woman\n</string>
+    <string name="lvl26text15">Quicksilver</string>
+    <string name="lvl26text16">Green/ngoblin</string>
+    <string name="lvl26text17">Magneto</string>
+    <string name="lvl26text18">Kraven\nhunter</string>
+    <string name="lvl26text19">Petrel</string>
+    <string name="lvl26text20">Punisher</string>
+    //Level 27
+    <string name="lvl27text1">Green</string>
+    <string name="lvl27text2">Blue</string>
+    <string name="lvl27text3">Red</string>
+    <string name="lvl27text4">White</string>
+    <string name="lvl27text5">Yellow</string>
+    <string name="lvl27text6">Black</string>
+    <string name="lvl27text7">Green</string>
+    <string name="lvl27text8">Transparent</string>
+    <string name="lvl27text9">Blue</string>
+    <string name="lvl27text10">Pink</string>
+    <string name="lvl27text11">Red</string>
+    <string name="lvl27text12">Black</string>
+    <string name="lvl27text13">Red</string>
+    <string name="lvl27text14">White</string>
+    <string name="lvl27text15">Blue</string>
+    <string name="lvl27text16">Green</string>
+    <string name="lvl27text17">Purple</string>
+    <string name="lvl27text18">Green</string>
+    <string name="lvl27text19">Red</string>
+    <string name="lvl27text20">White</string>
+    //Level 28
+    <string name="lvl28text1">Tanzanite</string>
+    <string name="lvl28text2">Fire\nopal</string>
+    <string name="lvl28text3">Eremeev</string>
+    <string name="lvl28text4">Poudretteite</string>
+    <string name="lvl28text5">Benitoite</string>
+    <string name="lvl28text6">Musgravite</string>
+    <string name="lvl28text7">Black\nopal</string>
+    <string name="lvl28text8">Red\nberyl</string>
+    <string name="lvl28text9">Alexandrite</string>
+    <string name="lvl28text10">Diamond</string>
+    <string name="lvl28text11">Serendibit</string>
+    <string name="lvl28text12">Grandidierite</string>
+    <string name="lvl28text13">Sapphire</string>
+    <string name="lvl28text14">Taaffeite</string>
+    <string name="lvl28text15">Emerald</string>
+    <string name="lvl28text16">Red\ndiamond</string>
+    <string name="lvl28text17">Ruby</string>
+    <string name="lvl28text18">Pink\ndiamond</string>
+    <string name="lvl28text19">Jadeite</string>
+    <string name="lvl28text20">Blue\ndiamond</string>
+    //Level 29
+    <string name="lvl29text1">Shatt al Arab\nEuphrates</string>
+    <string name="lvl29text2">Indus-Sengge\nZangbo</string>
+    <string name="lvl29text3">Volga</string>
+    <string name="lvl29text4">Tocantins\nAraguaia</string>
+    <string name="lvl29text5">Darling</string>
+    <string name="lvl29text6">Brahmaputra\nTsangpo</string>
+    <string name="lvl29text7">Niger</string>
+    <string name="lvl29text8">Mackenzie</string>
+    <string name="lvl29text9">Mekong</string>
+    <string name="lvl29text10">Lena</string>
+    <string name="lvl29text11">Argun</string>
+    <string name="lvl29text12">Kongo</string>
+    <string name="lvl29text13">Parana</string>
+    <string name="lvl29text14">Ob\nIrtysh</string>
+    <string name="lvl29text15">Huang He</string>
+    <string name="lvl29text16">Yenisei\nAngara\nSelenga\nIder</string>
+    <string name="lvl29text17">Mississippi</string>
+    <string name="lvl29text18">Yangtze</string>
+    <string name="lvl29text19">Amazon</string>
+    <string name="lvl29text20">Nile</string>
+    //Level 30
+    <string name="lvl30text1">Portugal</string>
+    <string name="lvl30text2">Armenia</string>
+    <string name="lvl30text3">Spain</string>
+    <string name="lvl30text4">Switzerland</string>
+    <string name="lvl30text5">Norway</string>
+    <string name="lvl30text6">Austria</string>
+    <string name="lvl30text7">China</string>
+    <string name="lvl30text8">Hungary</string>
+    <string name="lvl30text9">Canada</string>
+    <string name="lvl30text10">Andorra</string>
+    <string name="lvl30text11">Brazil</string>
+    <string name="lvl30text12">Czech Republic</string>
+    <string name="lvl30text13">Argentina</string>
+    <string name="lvl30text14">Belarus</string>
+    <string name="lvl30text15">UK</string>
+    <string name="lvl30text16">San Marino</string>
+    <string name="lvl30text17">Philippines</string>
+    <string name="lvl30text18">Luxembourg</string>
+    <string name="lvl30text19">Madagascar</string>
+    <string name="lvl30text20">North\nMacedonia</string>
+</resources>

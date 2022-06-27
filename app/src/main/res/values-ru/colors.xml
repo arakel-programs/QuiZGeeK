@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_wh">#99000000</color>
+    <color name="tarorunak">#1104FF00</color>
+    <color name="black">#000000</color>
+    <color name="black_transp">#95000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bac_blue">#996CD2FF</color>
+    <color name="seriy">#50000000</color>
+    <color name="green">#9019FF19</color>
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Choose the higher number.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="leveloneEnd">"Congratulations, you've completed the level!\n
+        Did you know that the number 7 is considered the luckiest number. There are 7 days in a week, 7 continents, 7 colors of the rainbow, 7 musical notes, 7 days of Creation and much more.
+         Also, the number 7 is most often the favorite number of people all over the world."</string>
+    <string name="leveltwo">Choose the Roman numeral that is smaller.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="leveltwoEnd">"Congratulations, you've completed the level!\n
+        Did you know that there is no zero in Roman numerals?"</string>
+    <string name="levelthree">Which animal shows its tongue the most??\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="levelthreeEnd">"Congratulations, you've completed the level!\n
+        Did you know that when a woodpecker hits a tree with its beak, it retracts its tongue and wraps it around its brain to protect it."</string>
+    <string name="levelfour">Choose something edible.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="levelfourEnd">"Congratulations, you've completed the level!\n
+        Did you know that many crocodiles swallow stones, but not because they are edible for them. Stones help them sink into the water faster and stay on the bottom."</string>
+    <string name="levelfive">Choose heroes related to Marvel Comics.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="levelfiveEnd">"Congratulations, you've completed the level!\n
+        Did you know that in the early 90s, Michael Jackson tried to acquire the publishing house Marvel Comics -
+         perhaps in order to acquire the rights to the Spider-Man character, produce a film with him and star in it."</string>
+    <string name="levelsix">Choose a movie that was shot earlier.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="levelsixEnd">"Congratulations, you've completed the level!\n
+        Did you know that the first superhero appearance on the big screen is considered to be the black-and-white silent film The Sign of Zorro (1920)."</string>
+    <string name="levelseven">Choose a console that belongs to the new generation.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="levelsevenEnd">"Congratulations, you've completed the level!\n
+        Did you know that part of the technology for the touchless touch game controller KINECT(Xbox) was developed by the Israeli army."</string>
+    <string name="leveleigth">Choose chewing gum.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="leveleightEnd">"Congratulations, you've completed the level!\n
+        Did you know that chewing gum turns 168 on September 23rd. The invention, which is loved by millions of people around the world, belongs to the American John Curtis."</string>
+    <string name="levelnine">Choose the actor who played Batman in the movie.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="levelnineEnd">"Congratulations, you've completed the level!\n
+         Did you know that the author of Batman - Bill Finger - invented the name of Bruce Wayne, forming it from the names of 2 freedom fighters.\n
+         He took his name from King Bruce I of Scotland, who led the Scots in the war against England.\n
+         But the name Finger borrowed from Anthony "Mad" Wayne, a general and hero of the American Revolutionary War."</string>
+    <string name="levelten">Choose German cars.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="leveltenEnd">"Congratulations, you've completed the level!\n
+         Did you know that motorists in Germany, as a rule, sacredly honor traffic rules. They do not tolerate absent-mindedness from other road users."</string>
+    <string name="level11Text">Choose a mammal animal.\nQuestions will be repeated until you reach 20 points.</string>
+    <string name="level11TextEnd">"Congratulations, you've completed the level!\n
+         Did you know that mammals are a class of endothermic vertebrates whose distinctive feature is the production of milk for feeding their young. Their gradual evolution from mammal-like "reptiles" called "synapsids" lasted about 70 million years."</string>
+    <string name="level12Text">Choose a game that is made exclusively for mobile devices.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level12TextEnd">"Congratulations, you've completed the level!\n
+         Did you know that mobile games now include the so-called "social gaming" (Social games).
+         Games have penetrated the largest social networks, and now at various conferences dedicated to the mobile gaming industry, with a high degree of probability you can see representatives of Facebook, VKontakte and others."</string>
+    <string name="level13Text">Choose a game that is made exclusively for game consoles.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level13TextEnd">"Congratulations, you've completed the level!\n
+         And did you know that Playstation is one of the most valuable brands of game consoles, whose legacy has really grown stronger in the last decade after Nintendo.
+         It is one of the most popular game consoles and Sony has sold 102 million PlayStation 4 units which is insane making it the second best selling game console after the PlayStation 2."</string>
+    <string name="level14Text">Choose a manga that does not have an anime adaptation.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level14TextEnd">"Congratulations, you've completed the level!\n
+         Did you know that "Manga" is a word that was coined by Japanese artist Katsushika Hokusai.
+         So he designated a series of his own engravings.
+         It was more than two centuries ago - in 1814. Today, manga is exclusively Japanese comics.
+         Others do not have the right to be called so."</string>
+    <string name="level15Text">Choose the actors who played in the series "Doctor House".\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level15TextEnd">"Congratulations, you've completed the level!\n
+        And did you know that Hugh Laurie's father was a doctor, and he feels a tinge of guilt about being paid more to be a fake version of his father.
+        According to David Shore, after listening to Hugh Laurie, executive producer Bryan Singer said that's what he wanted, an American. Singer did not know that Hugh Laurie was British."</string>
+    <string name="level16Text">Choose the country that hosted the World Cup.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level16TextEnd">"Congratulations, you've completed the level!\n
+         Did you know that the 1954 FIFA World Cup™ was voted the most "aggressive" for its unusually attacking style of play. In 26 matches, 140 goals were scored (5.38 goals per game)."</string>
+    <string name="level17Text">Choose the right logo.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level17TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that the brand has undergone a complex transformation and has grown into a giant enterprise that has been dressing the best athletes from different countries for several generations. The Adidas logo has changed several times, but in general it has always retained its main message - the struggle and striving forward."</string>
+    <string name="level18Text">Select a country that is part of Europe.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level18TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that European civilization originated in ancient Greece, in the eastern Mediterranean. It was the Greeks who decided to separate Europe from Asia as part of the world.
+        Despite the abundance of historical sights and natural beauties, the most visited place in Europe is the Disneyland amusement park in Paris."</string>
+    <string name="level19Text">Choose the world boxing champions.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level19TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that boxing appeared before our era.
+        Although it is generally accepted that this sport in its modern form appeared in England, one can find mention of fisticuffs in ancient Egypt or among the Sumerians."</string>
+    <string name="level20Text">Choose the actor with the real name.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level20TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that the real name of Stirlitz is not Maxim Maksimovich Isaev, but Vsevolod Vladimirovich Vladimirov.
+        Isaev is the first operational pseudonym of a scout, introduced by Yulian Semyonov in the first novel “Diamonds for the Dictatorship of the Proletariat”, and Stirlitz is already the second pseudonym."</string>
+    <string name="level21Text">Choose the actors who won the Oscar.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level21TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that the height of the Oscar figurine is 34 cm, weight - 3.85 kg, it is made of a gold-plated Britannia alloy and rests on a black marble pedestal. It depicts a knight with a sword, standing on a ribbon reel. According to legend, the creator of the image of "Oscar" Cedric Gibbons sketched his sketch in a notebook during one of the tedious meetings."</string>
+    <string name="level22Text">Choose a poisonous animal.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level22TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that about 5,000 species of poisonous animals from various types are known to science.
+        Among poisonous animals, protozoa, mollusks, worms, reptiles, arthropods, amphibians, fish and insects predominate.
+        At the same time, there are only a few species of poisonous mammals in the world: platypuses, skunks, shrews, and flint teeth.
+        There are also poisonous birds."</string>
+    <string name="level23Text">Choose the last President of the United States.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level23TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that in 1902, while hunting, President Theodore Roosevelt took pity on a little bear cub.
+        This episode was seized on by toy factories, which began to churn out the still popular "Teddy Bear"."</string>
+    <string name="level24Text">Which character is in the Simpson family?\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level24TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that the true purpose of sofa screensavers is to make a series longer.
+        Everything ingenious is cunning and simple.
+        Maggie is worth $847.63 in early season cutscenes.
+        That's exactly what the average monthly spending per child in the US was."</string>
+    <string name="level25Text">Choose the actor who played Superman before.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level25TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that in the 80s, the authors of the comic book about Superman decided to change the profession of his worst enemy - the mad scientist Lex Luthor.
+        From a crazy and evil professor, they made an equally evil financial bigwig, taking the real-life businessman Donald Trump as a model.
+        In the first four issues, the updated Luthor was similar even in appearance and was a healthy guy with red hair."</string>
+    <string name="level26Text">Choose the heroes that make up the X-Men.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level26TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that in the Marvel Universe, Santa Claus is the most powerful mutant ever discovered by Cerebro (the mutant-detecting device used to find the X-Men)."</string>
+    <string name="level27Text">Choose the right color.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level27TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that Isaac Newton first noticed that when a light ray passes through a prism, it refracts, forming a spectrum of colors that are always arranged in the same order: from red to violet."</string>
+    <string name="level28Text">Choose a more precious stone.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level28TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that only one out of a million mined diamonds becomes a piece of jewelry and the age of all mined diamonds is more than 3 billion years."</string>
+    <string name="level29Text">Choose the longest river.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level29TextEnd">"Congratulations, you've completed the level!\n
+        Did you know that since ancient times, the locals have been accustomed to revere the Amazon, bowing before its greatness.
+        By the way, more than 2000 different species of fish live in the waters.
+        If you walk through the jungle, then on 1 hectare you can get acquainted with 200 species of trees."</string>
+    <string name="level30Text">Choose a country bordered by an ocean.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level30TextEnd">"Congratulations, you've completed the level!\n"
+        "The sequel will be out soon\n
+        Did you know that the world ocean covers more than 70% of the earth's surface and the oceans existed on the planet 3 billion years before the appearance of life on it."</string>
+</resources>
