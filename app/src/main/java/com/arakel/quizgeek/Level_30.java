@@ -49,7 +49,7 @@ public class Level_30 extends AppCompatActivity {
         //Ad start
         MobileAds.initialize(this, "ca-app-pub-5332101373774587~3526230126");
         interstitialAd = new InterstitialAd(this);
-        interstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");//ca-app-pub-5332101373774587/2991300664
+        interstitialAd.setAdUnitId("ca-app-pub-5332101373774587/2991300664");//ca-app-pub-3940256099942544/1033173712
         AdRequest adRequest = new AdRequest.Builder().build();
         interstitialAd.loadAd(adRequest);
         //Ad end
