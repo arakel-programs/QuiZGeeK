@@ -486,6 +486,18 @@
                             android:textStyle="bold"
                             android:gravity="center"
                             />
+                        <TextView
+                            android:id="@+id/textView_31"
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:text="X"
+                            android:layout_marginRight="20dp"
+                            android:background="@drawable/button_gamelevels"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold"
+                            android:gravity="center"
+                            />
                     </LinearLayout>
 
                 </LinearLayout>

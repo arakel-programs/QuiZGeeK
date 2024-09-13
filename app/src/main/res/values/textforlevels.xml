@@ -511,4 +511,25 @@
     <string name="lvl30text18">Luxembourg</string>
     <string name="lvl30text19">Madagascar</string>
     <string name="lvl30text20">North\nMacedonia</string>
+    //Level 31
+    <string name="lvl31text1">Luffy</string>
+    <string name="lvl31text2">Zoro</string>
+    <string name="lvl31text3">Nami</string>
+    <string name="lvl31text4">Usopp</string>
+    <string name="lvl31text5">Sanji</string>
+    <string name="lvl31text6">Chopper</string>
+    <string name="lvl31text7">Robin</string>
+    <string name="lvl31text8">Franky</string>
+    <string name="lvl31text9">Brook</string>
+    <string name="lvl31text10">Jinbei</string>
+    <string name="lvl31text11">Buggy</string>
+    <string name="lvl31text12">Crocodile</string>
+    <string name="lvl31text13">Doflamingo</string>
+    <string name="lvl31text14">Bartolomeo</string>
+    <string name="lvl31text15">Ace</string>
+    <string name="lvl31text16">Law</string>
+    <string name="lvl31text17">Kaido</string>
+    <string name="lvl31text18">Arlong</string>
+    <string name="lvl31text19">Boa</string>
+    <string name="lvl31text20">Bon</string>
 </resources>

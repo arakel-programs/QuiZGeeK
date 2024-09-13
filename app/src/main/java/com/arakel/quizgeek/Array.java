@@ -1318,5 +1318,58 @@ public class Array {
 
     //Array for Level 30
     // _____________________________________________________
+    //Array for Level 31
+    final int[] images31 = {
+            R.drawable.one_piece_luffy_1,
+            R.drawable.one_piece_buggy_1,
+            R.drawable.one_piece_zoro_2,
+            R.drawable.one_piece_crocodile_2,
+            R.drawable.one_piece_nami_3,
+            R.drawable.one_piece_doflamingo_3,
+            R.drawable.one_piece_usopp_4,
+            R.drawable.one_piece_bartolomeo_4,
+            R.drawable.one_piece_sanji_5,
+            R.drawable.one_piece_ace_5,
+            R.drawable.one_piece_chopper_6,
+            R.drawable.one_piece_law_6,
+            R.drawable.one_piece_robin_7,
+            R.drawable.one_piece_kaido_7,
+            R.drawable.one_piece_franky_8,
+            R.drawable.one_piece_arlong_8,
+            R.drawable.one_piece_brook_9,
+            R.drawable.one_piece_boa_9,
+            R.drawable.one_piece_jinbei_10,
+            R.drawable.one_piece_bon_10,
+    };
+
+    final int[] texts31 = {
+            R.string.lvl31text1,
+            R.string.lvl31text11,
+            R.string.lvl31text2,
+            R.string.lvl31text12,
+            R.string.lvl31text3,
+            R.string.lvl31text13,
+            R.string.lvl31text4,
+            R.string.lvl31text14,
+            R.string.lvl31text5,
+            R.string.lvl31text15,
+            R.string.lvl31text6,
+            R.string.lvl31text16,
+            R.string.lvl31text7,
+            R.string.lvl31text17,
+            R.string.lvl31text8,
+            R.string.lvl31text18,
+            R.string.lvl31text9,
+            R.string.lvl31text19,
+            R.string.lvl31text10,
+            R.string.lvl31text20,
+    };
+
+    final int[] strong23 = {
+            1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,
+    };
+
+    //Array for Level 31
+    // _____________________________________________________
 
 }

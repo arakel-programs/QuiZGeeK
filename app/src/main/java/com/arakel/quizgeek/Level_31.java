@@ -26,7 +26,7 @@ import com.google.android.gms.ads.MobileAds;
 
 import java.util.Random;
 
-public class Level_30 extends AppCompatActivity {
+public class Level_31 extends AppCompatActivity {
 
     Dialog dialog;
     Dialog dialogEnd;
@@ -61,9 +61,9 @@ public class Level_30 extends AppCompatActivity {
                 try{
                     switch (transition){
                         case 0: break;
-                        case 1: Intent intent = new Intent(Level_30.this, Level_31.class);
+                        case 1: Intent intent = new Intent(Level_31.this, Finish.class);
                             startActivity(intent);finish();break;
-                        case 2: Intent intent1 = new Intent(Level_30.this, GameLevels.class);
+                        case 2: Intent intent1 = new Intent(Level_31.this, GameLevels.class);
                             startActivity(intent1);finish();break;
                         default:break;
                     }
@@ -76,7 +76,7 @@ public class Level_30 extends AppCompatActivity {
 
         //Create text_levels
         TextView text_levels = findViewById(R.id.text_levels);
-        text_levels.setText(R.string.level_30);//Set text
+        text_levels.setText(R.string.level_31);//Set text
 
         final ImageView img_left = (ImageView)findViewById(R.id.img_left);
         //radius for left img
@@ -100,7 +100,7 @@ public class Level_30 extends AppCompatActivity {
 
         //Set level background
         ImageView background = (ImageView)findViewById(R.id.level_1_background);
-        background.setImageResource(R.drawable.level_30);
+        background.setImageResource(R.drawable.level_31);
         //Set level background
 
         //Calling dialog in start of game
@@ -112,17 +112,17 @@ public class Level_30 extends AppCompatActivity {
 
         //Set image for dialog
         ImageView previewimg = (ImageView)dialog.findViewById(R.id.preview_img);
-        previewimg.setImageResource(R.drawable.preview_img_30);
+        previewimg.setImageResource(R.drawable.preview_img_31);
         //Set image for dialog
 
         //set background for dialog
         LinearLayout dialogFon = (LinearLayout)dialog.findViewById(R.id.dialogfon);
-        dialogFon.setBackgroundResource(R.drawable.preview_background_30);
+        dialogFon.setBackgroundResource(R.drawable.preview_background_14);
         //set background for dialog
 
         //Set text for dialog
         TextView textdescription = (TextView)dialog.findViewById(R.id.text_description);
-        textdescription.setText(R.string.level30Text);
+        textdescription.setText(R.string.level31Text);
         //Set text for dialog
 
         //Button that close the dialog window
@@ -133,7 +133,7 @@ public class Level_30 extends AppCompatActivity {
                 //Working on button job
                 try{
                     //Get back to level select page
-                    Intent intent = new Intent(Level_30.this, GameLevels.class);//Create the plan for returning
+                    Intent intent = new Intent(Level_31.this, GameLevels.class);//Create the plan for returning
                     startActivity(intent);//Start the plan
                     finish();//Close this class
                     //Get back to level select page
@@ -175,7 +175,7 @@ public class Level_30 extends AppCompatActivity {
 
         //Interesting fact
         TextView texxtdescriptionEnd = (TextView)dialogEnd.findViewById(R.id.text_description_end);
-        texxtdescriptionEnd.setText(R.string.level30TextEnd);
+        texxtdescriptionEnd.setText(R.string.level31TextEnd);
         //Interesting fact
 
         //Button that close the dialog window
@@ -186,7 +186,7 @@ public class Level_30 extends AppCompatActivity {
                 //Working on button job
                 try{
                     //Get back to level select page
-                    Intent intent = new Intent(Level_30.this, Level_31.class);//Create the plan for returning
+                    Intent intent = new Intent(Level_31.this, Finish.class);//Create the plan for returning
                     startActivity(intent);//Start the plan
                     finish();//Close this class
                     //Get back to level select page
@@ -209,7 +209,7 @@ public class Level_30 extends AppCompatActivity {
                     interstitialAd.show();
                 }else {
                     try {
-                        Intent intent = new Intent(Level_30.this, Level_31.class);
+                        Intent intent = new Intent(Level_31.this, Finish.class);
                         startActivity(intent);
                         finish();
                     } catch (Exception e) {
@@ -234,7 +234,7 @@ public class Level_30 extends AppCompatActivity {
                     interstitialAd.show();//show the add
                 }else {
                     try {
-                        Intent intent = new Intent(Level_30.this, GameLevels.class);
+                        Intent intent = new Intent(Level_31.this, GameLevels.class);
                         startActivity(intent);
                         finish();
                     } catch (Exception e) {
@@ -254,26 +254,26 @@ public class Level_30 extends AppCompatActivity {
         };
 
         //Connect animation
-        final Animation a = AnimationUtils.loadAnimation(Level_30.this, R.anim.alpha);
+        final Animation a = AnimationUtils.loadAnimation(Level_31.this, R.anim.alpha);
         //Connect animation
 
         //Generating random numbers from 0 to 9
         //Left
         numLeft = random.nextInt(20);
-        img_left.setImageResource(array.images30[numLeft]);//getting image from array
-        text_left.setText(array.texts30[numLeft]);//getting text from array
+        img_left.setImageResource(array.images31[numLeft]);//getting image from array
+        text_left.setText(array.texts31[numLeft]);//getting text from array
 
         //Right
         numRight = random.nextInt(20);//Generating random numbers from 0 to 9
 
         //Circle for checking numbers equels
-        while (array.strong22[numLeft] == array.strong22[numRight]){
+        while (array.strong23[numLeft] == array.strong23[numRight]){
             numRight = random.nextInt(20);
         }
         //Circle for checking numbers equels
 
-        img_right.setImageResource(array.images30[numRight]);//getting image from array
-        text_right.setText(array.texts30[numRight]);//getting text from array
+        img_right.setImageResource(array.images31[numRight]);//getting image from array
+        text_right.setText(array.texts31[numRight]);//getting text from array
         //Generating random numbers from 0 to 9
 
         //Working on click on left image<-
@@ -284,7 +284,7 @@ public class Level_30 extends AppCompatActivity {
                 if (event.getAction() == MotionEvent.ACTION_DOWN){
                     //if touch the image
                     img_right.setEnabled(false);//Block right image
-                    if(array.strong22[numLeft] > array.strong22[numRight]){
+                    if(array.strong23[numLeft] > array.strong23[numRight]){
                         img_left.setImageResource(R.drawable.img_true);
                     }else{
                         img_left.setImageResource(R.drawable.img_false);
@@ -292,7 +292,7 @@ public class Level_30 extends AppCompatActivity {
                     //if touch the image
                 }else if(event.getAction() == MotionEvent.ACTION_UP){
                     //if end touch image
-                    if (array.strong22[numLeft] > array.strong22[numRight]){
+                    if (array.strong23[numLeft] > array.strong23[numRight]){
                         //if left bigger
                         if (count<20){
                             count = count + 1;
@@ -343,19 +343,19 @@ public class Level_30 extends AppCompatActivity {
                         ///Generating random numbers from 0 to 9
                         //Left
                         numLeft = random.nextInt(20);
-                        img_left.setImageResource(array.images30[numLeft]);//getting image from array
+                        img_left.setImageResource(array.images31[numLeft]);//getting image from array
                         text_left.setText(array.texts30[numLeft]);//getting text from array
 
                         //Right
                         numRight = random.nextInt(20);//Generating random numbers from 0 to 9
 
                         //Circle for checking numbers equels
-                        while (array.strong22[numLeft] == array.strong22[numRight]){
+                        while (array.strong23[numLeft] == array.strong23[numRight]){
                             numRight = random.nextInt(20);
                         }
                         //Circle for checking numbers equels
 
-                        img_right.setImageResource(array.images30[numRight]);//getting image from array
+                        img_right.setImageResource(array.images31[numRight]);//getting image from array
                         text_right.setText(array.texts30[numRight]);//getting text from array
 
                         img_right.setEnabled(true);//Block back
@@ -377,7 +377,7 @@ public class Level_30 extends AppCompatActivity {
                 if (event.getAction() == MotionEvent.ACTION_DOWN){
                     //if touch the image
                     img_left.setEnabled(false);//Block left image
-                    if(array.strong22[numLeft] < array.strong22[numRight]){
+                    if(array.strong23[numLeft] < array.strong23[numRight]){
                         img_right.setImageResource(R.drawable.img_true);
                     }else{
                         img_right.setImageResource(R.drawable.img_false);
@@ -385,7 +385,7 @@ public class Level_30 extends AppCompatActivity {
                     //if touch the image
                 }else if(event.getAction() == MotionEvent.ACTION_UP){
                     //if end touch image
-                    if (array.strong22[numLeft] < array.strong22[numRight]){
+                    if (array.strong23[numLeft] < array.strong23[numRight]){
                         //if right bigger
                         if (count<20){
                             count = count + 1;
@@ -436,20 +436,20 @@ public class Level_30 extends AppCompatActivity {
                         //Generating random numbers from 0 to 9
                         //Left
                         numLeft = random.nextInt(20);
-                        img_left.setImageResource(array.images30[numLeft]);//getting image from array
-                        text_left.setText(array.texts30[numLeft]);//getting text from array
+                        img_left.setImageResource(array.images31[numLeft]);//getting image from array
+                        text_left.setText(array.texts31[numLeft]);//getting text from array
 
                         //Right
                         numRight = random.nextInt(20);//Generating random numbers from 0 to 9
 
                         //Circle for checking numbers equels
-                        while (array.strong22[numLeft] == array.strong22[numRight]){
+                        while (array.strong23[numLeft] == array.strong23[numRight]){
                             numRight = random.nextInt(20);
                         }
                         //Circle for checking numbers equels
 
-                        img_right.setImageResource(array.images30[numRight]);//getting image from array
-                        text_right.setText(array.texts30[numRight]);//getting text from array
+                        img_right.setImageResource(array.images31[numRight]);//getting image from array
+                        text_right.setText(array.texts31[numRight]);//getting text from array
 
                         img_left.setEnabled(true);//Block back left
                         //Generating random numbers from 0 to 9
@@ -473,7 +473,7 @@ public class Level_30 extends AppCompatActivity {
             interstitialAd.show();
         }else {
             try {
-                Intent intent = new Intent(Level_30.this, GameLevels.class);
+                Intent intent = new Intent(Level_31.this, GameLevels.class);
                 startActivity(intent);
                 finish();
             } catch (Exception e) {

@@ -656,6 +656,26 @@ public class GameLevels extends AppCompatActivity {
         });
         //Button for Level 30
         //_______________________________________________________________________________________
+        //Button for Level 31
+        TextView textView_31 = (TextView)findViewById(R.id.textView_31);
+        textView_31.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    if (level >= 31) {
+                        Intent intent = new Intent(GameLevels.this, Level_31.class);
+                        startActivity(intent);
+                        finish();
+                    }else{
+                        //empty
+                    }
+                }catch (Exception e){
+                    //empty
+                }
+            }
+        });
+        //Button for Level 31
+        //_______________________________________________________________________________________
 
         final int[] x={
                 R.id.textView_1,
@@ -688,6 +708,7 @@ public class GameLevels extends AppCompatActivity {
                 R.id.textView_28,
                 R.id.textView_29,
                 R.id.textView_30,
+                R.id.textView_31,
         };
         for (int i=1; i<level; i++){
             TextView tv = findViewById(x[i]);

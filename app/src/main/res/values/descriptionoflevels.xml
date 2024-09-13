@@ -113,6 +113,10 @@
         If you walk through the jungle, then on 1 hectare you can get acquainted with 200 species of trees."</string>
     <string name="level30Text">Choose a country bordered by an ocean.\nThe questions will be repeated until you reach 20 points.</string>
     <string name="level30TextEnd">"Congratulations, you've completed the level!\n"
+        "Did you know that the world ocean covers more than 70% of the earth's surface and the oceans existed on the planet 3 billion years before the appearance of life on it."</string>
+    <string name="level31Text">Choose a member of the Straw-hat\'s crew.\nThe questions will be repeated until you reach 20 points.</string>
+    <string name="level31TextEnd">"Congratulations, you've completed the level!\n"
         "The sequel will be out soon\n
-        Did you know that the world ocean covers more than 70% of the earth's surface and the oceans existed on the planet 3 billion years before the appearance of life on it."</string>
+        One interesting fact about the Straw Hat Crew from One Piece is that they were the first pirate crew to openly declare war on the World Government.
+        This happened when Monkey D. Luffy and his crew burned the World Government's flag at Enies Lobby to rescue their crewmate, Nico Robin, making them one of the most wanted pirate groups."</string>
 </resources>

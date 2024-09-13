@@ -511,4 +511,25 @@
     <string name="lvl30text18">Люксембург</string>
     <string name="lvl30text19">Мадагаскар</string>
     <string name="lvl30text20">Северная\nМакедония</string>
+    //Level 31
+    <string name="lvl31text1">Луффи</string>
+    <string name="lvl31text2">Зоро</string>
+    <string name="lvl31text3">Нами</string>
+    <string name="lvl31text4">Усопп</string>
+    <string name="lvl31text5">Санджи</string>
+    <string name="lvl31text6">Чоппер</string>
+    <string name="lvl31text7">Робин</string>
+    <string name="lvl31text8">Фрэнки</string>
+    <string name="lvl31text9">Брук</string>
+    <string name="lvl31text10">Дзинбей</string>
+    <string name="lvl31text11">Багги</string>
+    <string name="lvl31text12">Крокодайл</string>
+    <string name="lvl31text13">Дофламинго</string>
+    <string name="lvl31text14">Бартоломео</string>
+    <string name="lvl31text15">Эйс</string>
+    <string name="lvl31text16">Ло</string>
+    <string name="lvl31text17">Кайдо</string>
+    <string name="lvl31text18">Арлонг</string>
+    <string name="lvl31text19">Боа</string>
+    <string name="lvl31text20">Бон</string>
 </resources>
